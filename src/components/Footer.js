@@ -8,7 +8,8 @@ import "../styles/Footer.css";
 function Footer() {
   return (
     <div className="footer">
-      <p> &copy; 2022 mehtadevang.com</p>
+      <p>&copy; 2022 Your Company Name</p>
+      <p>Phone: +91 9821948136 | Email: mehtadevang101.com</p>
     </div>
   );
 }
